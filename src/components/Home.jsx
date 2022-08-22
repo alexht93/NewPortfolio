@@ -16,7 +16,7 @@ const Home = () => {
                         I'm a Front-End Developer
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        Hi there, my name is Alex Hernandez Torres, and I'm in pursuit of my for job as a Web Developer.
+                        Hi there, my name is Alex Hernandez Torres, and I'm in pursuit of my first job as a Web Developer.
                     </p>
                     <div>
                         <Link to='portfolio'
