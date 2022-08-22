@@ -37,7 +37,7 @@ const NavBar = () => {
                 smooth
                 duration={500}
                 >
-                    Aht
+                    AhT
                 </Link>
             </div>
 
