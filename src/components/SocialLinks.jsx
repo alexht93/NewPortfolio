@@ -40,7 +40,7 @@ const SocialLinks = () => {
                     Resume <BsPaperclip size={30} />
                 </>
             ),
-            href: "/Resume.pdf",
+            href: "/Resume Dev.pdf",
             style: "rounded-br-md",
             download: true,
         },
