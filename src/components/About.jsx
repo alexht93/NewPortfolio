@@ -21,7 +21,7 @@ const About = () => {
                 <br />
 
                 <p className="text-xl">
-                    I have spent the last couple of years as a bilingual customer service representative, therefore, I can confidently speak two languages, English and Spanish. Even though this job may not be related to the IT world it has taught me tremendous skills such Active Listening, Complex Problem Solver, Multitasking and many other skills that allows to fulfill my goals.
+                    I have spent the last couple of years as a bilingual customer service representative, therefore, I can confidently speak two languages, English and Spanish. Even though this job may not be related to the IT world it has taught me tremendous skills such as Active Listening, Complex Problem Solving, Multitasking and many other skills that allow to fulfill my goals.
                 </p>
             </div>
         </div>
